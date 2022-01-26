@@ -1,5 +1,5 @@
 ﻿
-// doubles can have a decimal point//
+// doubles can have a decimal point///
 
 double averageAge;
 
